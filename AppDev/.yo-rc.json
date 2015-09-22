@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "AppDemo",
+    "packageName": "com.appdemo.app",
+    "packageFolder": "com/appdemo/app",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "a2e7406447a083fceb4a382198c9f24bafec147c"
+  }
+}
